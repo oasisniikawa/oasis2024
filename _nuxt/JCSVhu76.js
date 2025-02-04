@@ -1,1 +1,0 @@
-import{_ as r,o as s,c as t,r as o}from"./Dm5QN5h1.js";const n={},a={class:"grid lg:grid-cols-2 gap-2 bg-transparent"};function c(e,l){return s(),t("div",a,[o(e.$slots,"default")])}const d=r(n,[["render",c]]);export{d as default};
