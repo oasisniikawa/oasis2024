@@ -27,5 +27,11 @@ export default defineNuxtConfig({
     ignores: [
       '/docs'
     ]
-  }
+  },
+
+  nitro: {
+    prerender: {
+      failOnError: false, 
+    },
+  },
 })
