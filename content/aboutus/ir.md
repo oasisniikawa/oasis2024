@@ -14,7 +14,8 @@ title: 事業報告
   :::
 
   :::border-list-item
-  現況報告書、計算書類は、WAMNETからダウンロードをお願いいたします。\:br[WAMNET 社会福祉法人の財務諸表等電子開示システム](https://www.wam.go.jp/wamnet/zaihyoukaiji/pub/PUB0201000E00.do?_FORMID=PUB0219000\&vo_headVO_corporationId=1616108177)
+  現況報告書、計算書類は、WAMNETからダウンロードをお願いいたします。<br/>
+  [WAMNET 社会福祉法人の財務諸表等電子開示システム](https://www.wam.go.jp/wamnet/zaihyoukaiji/pub/PUB0201000E00.do?_FORMID=PUB0219000\&vo_headVO_corporationId=1616108177)
   :::
 ::
 
@@ -32,7 +33,8 @@ title: 事業報告
   :::
 
   :::border-list-item
-  現況報告書、計算書類は、WAMNETからダウンロードをお願いいたします。\:br[WAMNET 社会福祉法人の財務諸表等電子開示システム](https://www.wam.go.jp/wamnet/zaihyoukaiji/pub/PUB0201000E00.do?_FORMID=PUB0219000\&vo_headVO_corporationId=1616108177)
+  現況報告書、計算書類は、WAMNETからダウンロードをお願いいたします。<br/>
+  [WAMNET 社会福祉法人の財務諸表等電子開示システム](https://www.wam.go.jp/wamnet/zaihyoukaiji/pub/PUB0201000E00.do?_FORMID=PUB0219000\&vo_headVO_corporationId=1616108177)
   :::
 ::
 
@@ -50,7 +52,8 @@ title: 事業報告
   :::
 
   :::border-list-item
-  現況報告書、計算書類は、WAMNETからダウンロードをお願いいたします。\:br[WAMNET 社会福祉法人の財務諸表等電子開示システム](https://www.wam.go.jp/wamnet/zaihyoukaiji/pub/PUB0201000E00.do?_FORMID=PUB0219000\&vo_headVO_corporationId=1616108177)
+  現況報告書、計算書類は、WAMNETからダウンロードをお願いいたします。<br/>
+  [WAMNET 社会福祉法人の財務諸表等電子開示システム](https://www.wam.go.jp/wamnet/zaihyoukaiji/pub/PUB0201000E00.do?_FORMID=PUB0219000\&vo_headVO_corporationId=1616108177)
   :::
 ::
 
