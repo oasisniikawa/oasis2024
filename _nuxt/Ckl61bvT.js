@@ -1,0 +1,1 @@
+import{_ as s,o as t,c as o,a as r,r as a}from"./B9e6wSE8.js";const c={},l={class:"table-row"},n={class:"table-cell border p-2"};function d(e,_){return t(),o("div",l,[r("div",n,[a(e.$slots,"default")])])}const f=s(c,[["render",d]]);export{f as default};
