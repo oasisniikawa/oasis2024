@@ -1,7 +1,7 @@
 <template>
     <div class="grid grid-cols-2 gap-4">
         <div class="bg-blue-200 p-4">
-            ああああああ
+            あああ
         </div>
         <div class="bg-blue-200 p-4">
             いいいいいい
