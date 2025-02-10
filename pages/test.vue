@@ -4,7 +4,7 @@
             あああ
         </div>
         <div class="bg-blue-200 p-4">
-            いいいいいい
+            いいいい
         </div>
         <div class="bg-blue-200 p-4">
             うううううう<br/>
