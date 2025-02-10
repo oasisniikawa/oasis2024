@@ -1,0 +1,1 @@
+import{_ as t,o as r,c as s,r as o}from"./Dj6q407d.js";const c={},a={class:"border border-slate-200 p-2 text-slate-600"};function n(e,d){return r(),s("td",a,[o(e.$slots,"default")])}const _=t(c,[["render",n]]);export{_ as default};
