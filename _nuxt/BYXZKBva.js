@@ -1,0 +1,1 @@
+import{_ as t,o as r,c as o,r as s}from"./D5-tFZla.js";const c={},n={class:"border border-slate-200 bg-zinc-500 text-white p-2"};function a(e,_){return r(),o("th",n,[s(e.$slots,"default")])}const d=t(c,[["render",a]]);export{d as default};
