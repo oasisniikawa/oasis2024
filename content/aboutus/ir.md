@@ -2,6 +2,25 @@
 title: 事業報告
 ---
 
+## 令和6年度　事業報告
+
+::border-list
+  :::border-list-item
+  [令和6年度 事業報告書](/docs/令和6年度事業報告書.pdf){download="令和6年度事業報告書.pdf" target="_blank"}
+  :::
+
+  :::border-list-item
+  [令和6年度 財産目録](/docs/令和6年度財産目録.pdf){download="令和6年度財産目録.pdf" target="_blank"}
+  :::
+
+  :::border-list-item
+  現況報告書、計算書類は、WAMNETからダウンロードをお願いいたします。<br/>
+  [WAMNET 社会福祉法人の財務諸表等電子開示システム](https://www.wam.go.jp/wamnet/zaihyoukaiji/pub/PUB0201000E00.do?_FORMID=PUB0219000\&vo_headVO_corporationId=1616108177)
+  :::
+::
+
+:br
+
 ## 令和5年度　事業報告
 
 ::border-list
