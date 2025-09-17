@@ -11,4 +11,7 @@ title: '指針'
     ::BorderListItem
     [事故発生の防止のための指針](/docs/事故発生の防止のための指針.pdf){target="_blank" download="事故発生の防止のための指針.pdf"}
     ::
+    ::BorderListItem
+    [生産性向上のための指針](/docs/生産性向上のための指針.pdf){target="_blank" download="生産性向上のための指針.pdf"}
+    ::
 ::
