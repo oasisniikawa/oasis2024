@@ -1,1 +1,0 @@
-import{_ as o,o as r,c as s,r as t}from"./D5-tFZla.js";const c={},a={class:"table w-full border-collapse"};function l(e,n){return r(),s("div",a,[t(e.$slots,"default")])}const d=o(c,[["render",l]]);export{d as default};

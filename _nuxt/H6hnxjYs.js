@@ -1,1 +1,0 @@
-import{_ as o,o as s,c as t,r as c}from"./D5-tFZla.js";const r={},n={class:"flex flex-col w-full"};function l(e,a){return s(),t("div",n,[c(e.$slots,"default")])}const _=o(r,[["render",l]]);export{_ as default};
