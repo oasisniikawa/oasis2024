@@ -2,6 +2,15 @@
 title: '事業計画'
 ---
 
+## 令和8年度　事業計画
+
+::BorderList
+    ::BorderListItem
+    [令和8年度 事業計画書](/docs/R8事業計画.pdf){target="_blank" download="令和8年度事業計画書.pdf"}
+    ::
+::
+<br/>
+
 ## 令和7年度　事業計画
 
 ::BorderList
