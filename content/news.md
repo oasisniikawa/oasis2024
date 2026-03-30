@@ -8,6 +8,10 @@ description: 'サイトのホームページ'
 
 <table>
     <tr>
+        <th>2026年3月19日</th>
+        <td><a href="/aboutus/ip">令和8年度事業計画</a>を掲載しました。</td>
+    </tr>
+    <tr>
         <th>2025年6月30日</th>
         <td><a href="/aboutus/ca">役員名簿</a>を更新しました。</td>
     </tr>
@@ -15,11 +19,11 @@ description: 'サイトのホームページ'
         <th>2025年6月30日</th>
         <td><a href="/aboutus/ir">令和6年度事業報告書</a>を掲載しました。</td>
     </tr>
+    <!--
     <tr>
         <th>2025年3月21日</th>
         <td><a href="/aboutus/ip">令和7年度事業計画</a>を掲載しました。</td>
     </tr>
-    <!--
     <tr>
         <th>2024年6月12日</th>
         <td><a href="/aboutus/ir">令和5年度事業報告書</a>を掲載しました。</td>
